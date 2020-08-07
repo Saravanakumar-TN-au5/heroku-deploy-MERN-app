@@ -27,13 +27,12 @@ app.use(session({
 }));
 app.use(express.static(path.join(__dirname, 'build')));
 
-
-app.get('/*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
-});
-//app.use(authorize);
 app.use(signRoutes);
 app.use(prodRoutes);
 app.use(userRoutes);
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+});
+//app.use(authorize);
 
 app.listen(process.env.PORT);
