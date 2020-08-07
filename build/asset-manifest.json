@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89fd15b5.chunk.css",
+    "main.js": "/static/js/main.c9406f72.chunk.js",
+    "main.js.map": "/static/js/main.c9406f72.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc75219d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc75219d.js.map",
+    "static/js/2.c18dc45b.chunk.js": "/static/js/2.c18dc45b.chunk.js",
+    "static/js/2.c18dc45b.chunk.js.map": "/static/js/2.c18dc45b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cf982711d29771e4a443ea0977a08c73.js": "/precache-manifest.cf982711d29771e4a443ea0977a08c73.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.89fd15b5.chunk.css.map": "/static/css/main.89fd15b5.chunk.css.map",
+    "static/js/2.c18dc45b.chunk.js.LICENSE.txt": "/static/js/2.c18dc45b.chunk.js.LICENSE.txt",
+    "static/media/Carousel.module.scss": "/static/media/arrow-right.e0b4d24b.svg",
+    "static/media/FilterTab.module.scss": "/static/media/arrrowDown.1cb92206.svg",
+    "static/media/Header.module.scss": "/static/media/user-new.5683ec7c.svg",
+    "static/media/ProductCard.module.scss": "/static/media/heart-new.7746f5e4.svg",
+    "static/media/men-bag.webp": "/static/media/men-bag.5f89f0c3.webp",
+    "static/media/men-shoe.webp": "/static/media/men-shoe.040474de.webp",
+    "static/media/men-wear.webp": "/static/media/men-wear.d922027a.webp",
+    "static/media/women-bag.webp": "/static/media/women-bag.f12d8cdf.webp",
+    "static/media/women-shoe.webp": "/static/media/women-shoe.5fe444e9.webp",
+    "static/media/women-wear.webp": "/static/media/women-wear.fdf67345.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc75219d.js",
+    "static/js/2.c18dc45b.chunk.js",
+    "static/css/main.89fd15b5.chunk.css",
+    "static/js/main.c9406f72.chunk.js"
+  ]
+}
